@@ -48,7 +48,7 @@
             <mxPoint x="380" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F4iiCAKHa6ggHiWjsdra-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;/dcsmp/content/group-remove&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4iiCAKHa6ggHiWjsdra-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;/dcsmp/user/group-remove&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F4iiCAKHa6ggHiWjsdra-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;No&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
