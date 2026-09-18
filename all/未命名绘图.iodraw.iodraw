@@ -50,7 +50,7 @@
             <mxPoint x="320" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSTimIqLf6WB9dSiPM81-13" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;/dcsmp/content/group-edit&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSTimIqLf6WB9dSiPM81-13" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;/dcsmp/user/group-edit&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="130" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
