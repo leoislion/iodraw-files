@@ -40,7 +40,7 @@
           <mxGeometry x="320" y="280" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UNuHKJmped3PBoGNZkhG-9" value="返回成功码000000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="528" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UNuHKJmped3PBoGNZkhG-10" value="返回错误码200702，删除失败，分类标签有关联的数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="300" width="120" height="40" as="geometry" />
@@ -54,7 +54,7 @@
           <mxGeometry x="176" y="120" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owvv729EIRnCO3imPtMT-0" value="参数校验" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="331" y="171" width="100" height="80" as="geometry" />
+          <mxGeometry x="320" y="396" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
