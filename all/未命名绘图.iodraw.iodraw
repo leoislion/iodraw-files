@@ -42,7 +42,7 @@
         <mxCell id="x2BB1mefdtbVrCOkhgn--9" value="返回成功码000000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x2BB1mefdtbVrCOkhgn--10" value="错误码200800&lt;font face=&quot;Courier New, monospace&quot; color=&quot;#067d17&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;，&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增内容组失败&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x2BB1mefdtbVrCOkhgn--10" value="错误码200900&lt;font face=&quot;Courier New, monospace&quot; color=&quot;#067d17&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;，&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增黑名单失败&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2BB1mefdtbVrCOkhgn--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x2BB1mefdtbVrCOkhgn--12">
