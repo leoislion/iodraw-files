@@ -43,7 +43,7 @@
         <mxCell id="hRoCNREZYA8aOpnfjlRW-10" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;/dcsmp/user/group-search&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="130" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hRoCNREZYA8aOpnfjlRW-11" value="返回List&amp;lt;ContentGroupInfo&amp;gt;成功码000000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="hRoCNREZYA8aOpnfjlRW-11" value="返回List&amp;lt;UserGroupInfo&amp;gt;成功码000000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="410" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
