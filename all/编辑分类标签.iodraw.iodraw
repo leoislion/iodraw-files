@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-1" value="新建分类标签" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="334" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-2" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tNi6QFj7vQr8hpel0Y9w-4" target="tNi6QFj7vQr8hpel0Y9w-8">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -21,10 +21,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-4" value="参数校验" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="150" width="100" height="80" as="geometry" />
+          <mxGeometry x="344" y="160" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-5" value="返回错误码&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;200500，参数无效&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="494" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-6" value="yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tNi6QFj7vQr8hpel0Y9w-8" target="tNi6QFj7vQr8hpel0Y9w-9">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
@@ -37,21 +37,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-8" value="数据写入数据库" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="270" width="100" height="80" as="geometry" />
+          <mxGeometry x="344" y="280" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-9" value="返回成功码000000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="410" width="120" height="40" as="geometry" />
+          <mxGeometry x="334" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-10" value="返回错误码200700，创建标签失败" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="494" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tNi6QFj7vQr8hpel0Y9w-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="125" as="targetPoint" />
+            <mxPoint x="394" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-12" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;/dcsmp/category/add&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="110" width="140" height="30" as="geometry" />
+          <mxGeometry x="214" y="120" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
