@@ -42,7 +42,7 @@
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-9" value="返回成功码000000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNi6QFj7vQr8hpel0Y9w-10" value="返回错误码200701，&lt;span style=&quot;color: rgb(6, 125, 23); font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;编辑分类标签失败&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tNi6QFj7vQr8hpel0Y9w-10" value="返回错误码200701，&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;编辑分类标签失败&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tNi6QFj7vQr8hpel0Y9w-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tNi6QFj7vQr8hpel0Y9w-12">
