@@ -42,7 +42,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mihr33KfNPGO0NrKjo8i-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;删除数据&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="250" width="100" height="80" as="geometry" />
+          <mxGeometry x="240" y="270" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mihr33KfNPGO0NrKjo8i-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mihr33KfNPGO0NrKjo8i-15" target="mihr33KfNPGO0NrKjo8i-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
