@@ -50,6 +50,11 @@
             <mxPoint x="290" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3G7WcqWF8pGtE4kB_Vvf-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x2BB1mefdtbVrCOkhgn--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x2BB1mefdtbVrCOkhgn--12" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;/dcsmp/blacklist/content-add&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="90" width="160" height="30" as="geometry" />
         </mxCell>
