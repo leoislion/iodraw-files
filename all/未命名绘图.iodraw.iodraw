@@ -7,7 +7,7 @@
         <mxCell id="VsRhblWbYwYzm6LJC3Xz-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VsRhblWbYwYzm6LJC3Xz-1" target="VsRhblWbYwYzm6LJC3Xz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VsRhblWbYwYzm6LJC3Xz-1" value="编辑内容组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VsRhblWbYwYzm6LJC3Xz-1" value="删除内容组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VsRhblWbYwYzm6LJC3Xz-2" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VsRhblWbYwYzm6LJC3Xz-4" target="VsRhblWbYwYzm6LJC3Xz-8">
